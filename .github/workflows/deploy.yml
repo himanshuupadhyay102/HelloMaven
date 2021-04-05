@@ -17,8 +17,9 @@ jobs:
         with:
           java-version: 11
       - name: Maven build
-        run: mvn --file pom.xml package
+        run: mvn --file pom.xml package 
 
+  
   deploy:
 
     runs-on: ubuntu-latest
