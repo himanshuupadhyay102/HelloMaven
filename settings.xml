@@ -12,8 +12,8 @@
             <repositories>
                 <repository>
                     <id>github</id>
-                    <name>GitHub TobseF Apache Maven Packages</name>
-                    <url>https://maven.pkg.github.com/TobseF</url>
+                    <name>GitHub Packages</name>
+                    <url>https://maven.pkg.github.com/himanshuupadhyay102</url>
                 </repository>
             </repositories>
         </profile>
