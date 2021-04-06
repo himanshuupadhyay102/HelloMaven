@@ -1,5 +1,5 @@
-<project ...>
-  ...
+<project>
+ 
   <distributionManagement>
     <repository>
       <id>github</id>
