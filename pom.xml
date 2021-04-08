@@ -25,6 +25,11 @@
             </plugin>
         </plugins>
     </build>
+    <dependency>
+    <groupId>github.himanshuupadhyay1-2</groupId>
+    <artifactId>hello-maven</artifactId>
+    <version>1.2.1</version>
+</dependency>
 
     <properties>
         <github.global.server>github</github.global.server>
